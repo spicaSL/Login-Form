@@ -2,12 +2,12 @@ body
 {
 	font-family: Tahoma, Geneva, sans-serif;
 	color: #fff;
-	background: url(space-savings.jpg);
+	background: url(/*image name with .jpg*/);
 	background-size: cover;
 }
 .signin
 {
-	background: rgba(44,62,80,0.7);
+	background: rgba(44,62,75,0.7);
 	padding: 40px;
 	width: 250px;
 	margin: auto;
@@ -17,12 +17,12 @@ body
 }
 form
 {
-	width: 240px;
+	width: 250px;
 	text-align: center;
 }
 input
 {
-	width: 240px;
+	width: 250px;
 	text-align: center;
 	background: transparent;
 	border: none;
