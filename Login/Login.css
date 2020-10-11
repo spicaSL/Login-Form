@@ -2,14 +2,14 @@ body
 {
 	font-family: Tahoma, Geneva, sans-serif;
 	color: #fff;
-	background: url(space-savings.jpg);
+	background: url(/*image name with .jpg extension*/);
 	background-size: cover;
 }
 .signin
 {
-	background: rgba(44,62,80,0.7);
+	background: rgba(44,60,80,0.7);
 	padding: 40px;
-	width: 250px;
+	width: 240px;
 	margin: auto;
 	margin-top: 80px;
 	height: 400px;
@@ -74,5 +74,5 @@ a:hover
 ::placeholder
 {
 	color:aliceblue;
-	opacity: 0.8;
+	opacity: 0.85;
 }
